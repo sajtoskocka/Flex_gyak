@@ -1,0 +1,46 @@
+body{
+    max-width: 1000px;
+    width: 90%;
+    margin: auto;
+
+}
+
+header{
+    border: 1px solid gray;
+    margin-top: 10px;
+    color: gray;
+}
+
+header h1{
+    margin-left: 5px;
+}
+
+nav{
+    background-color: gray;
+}
+
+nav a{
+    text-decoration: none;
+    color: red;
+}
+
+nav ul{
+    list-style: none;
+
+}
+
+
+#kezdolap{
+    padding-left: 0;
+    background-color: red;
+    
+}
+
+#kezdolap a{
+    color: white;
+}
+
+article{
+    border: 1px solid gray ;
+    padding: 5px;
+}

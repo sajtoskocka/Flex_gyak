@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 5px;
+}
+
+article{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    
+}
+
+div {
+    flex: 1 1 200px;
+}
