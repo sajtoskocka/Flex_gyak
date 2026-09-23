@@ -20,3 +20,10 @@ article{
 div {
     flex: 1 1 200px;
 }
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}

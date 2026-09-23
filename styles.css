@@ -5,6 +5,10 @@ body{
 
 }
 
+p{
+    text-align: justify;
+}
+
 header{
     border: 1px solid gray;
     margin-top: 10px;
@@ -43,4 +47,9 @@ nav ul{
 article{
     border: 1px solid gray ;
     padding: 5px;
+}
+
+div{
+    background-color: brown;
+    border: 1px solid black;
 }
