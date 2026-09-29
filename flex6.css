@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 5px;
+}
+
+article{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    
+    
+}
+
+div {
+    flex: 0 0 30%;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
